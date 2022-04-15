@@ -11,5 +11,7 @@ function closeMenu() {
   popup.style.width = '50%';
   window.setTimeout(() => {
     window.location.reload();
-  }, 5000);
+  }, 50);
 }
+showMenu.addEventListener('click', openMenu);
+hideMenu.addEventListener('click', closeMenu);

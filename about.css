@@ -32,17 +32,16 @@ nav {
 }
 
 .mobile-menu {
-  height: 100vh;
+  height: 105vh;
   top: -1px;
   position: fixed;
-  right: 20px;
+  right: -2px;
   left: 0;
   z-index: 3;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   transition: top 1s ease;
-  margin-right: 10%;
   padding-left: 80px;
   display: none;
   background: #6070ffe6;
