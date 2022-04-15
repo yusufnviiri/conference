@@ -12,7 +12,7 @@ This repo contains files of a conference website
 
 
 ## Live Demo
-https://yusufnviiri.github.io/conference/
+[Github pages link](https://yusufnviiri.github.io/conference/)
 
 ## setup to access the project
 
