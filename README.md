@@ -10,6 +10,10 @@ This repo contains files of a conference website
 ## Demo
 [video](https://www.loom.com/share/f5bb2e8dcbcb48d887c96b0dfbdfbe73)
 
+
+## Live Demo
+https://yusufnviiri.github.io/conference/
+
 ## setup to access the project
 
 > To get a local copy up and running follow these simple steps.
